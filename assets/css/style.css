@@ -1,0 +1,19 @@
+.bot-0{
+
+	clear: both;
+	bottom: 0px;
+}
+
+html,body{
+	height: 100%;
+}
+
+.font-big{
+	font-size: 20px !important;
+	font-weight: bold;
+}
+
+.app {
+	display: flex;
+	min-height: 100vh;
+}
